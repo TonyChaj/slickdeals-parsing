@@ -23,5 +23,5 @@ item_price_values = [x.get_text() for x in item_price]
 for value in item_price_values:
 	print(value)
 # Put values into data frame.
-
+print('hello')
 # Save data into excel sheet. 
